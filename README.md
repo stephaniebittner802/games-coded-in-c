@@ -28,17 +28,17 @@ This repository contains a collection of interactive games built in C, including
 ## Compilation and Running:
 1. To compile and run **YahtC**:
    ```bash
-   gcc yahtC.c -o yahtC
-   ./yahtC
+   gcc yahtC.c
+   ./a.out
    ```
 2. To compile and run **Solitaire Poker**:
    ```bash
-   gcc solitairePoker.c -o solitairePoker
-   ./solitairePoker
+   gcc solitairePoker.c
+   ./a.out
    ```
 3. To compile and run **Online Shopping Cart**:
    ```bash
-   gcc main.c ShoppingCart.c ItemToPurchase.c -o shoppingCart
-   ./shoppingCart
+   gcc main.c ShoppingCart.c ItemToPurchase.c
+   ./a.out
    ```
 
