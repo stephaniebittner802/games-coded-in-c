@@ -1,5 +1,5 @@
 
-# C Games Collection
+# Games Coded in C
 
 This repository contains a collection of interactive games built in C, including:
 
